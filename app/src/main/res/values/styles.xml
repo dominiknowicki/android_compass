@@ -15,5 +15,7 @@
         <item name="android:padding">@dimen/widget_base_padding</item>
         <item name="android:textAlignment">center</item>
         <item name="android:textSize">@dimen/widget_text_size</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:ellipsize">end</item>
     </style>
 </resources>
